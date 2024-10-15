@@ -1,0 +1,57 @@
+[
+  {
+    "source": "/homepage",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/old-about",
+    "destination": "/about",
+    "permanent": true
+  },
+  {
+    "source": "/old-contact",
+    "destination": "/contact",
+    "permanent": true
+  },
+  {
+    "source": "/old-products",
+    "destination": "/products",
+    "permanent": true
+  },
+  {
+    "source": "/old-services",
+    "destination": "/services",
+    "permanent": true
+  },
+  {
+    "source": "/old-blog",
+    "destination": "/blog",
+    "permanent": true
+  },
+  {
+    "source": "/old-news",
+    "destination": "/news",
+    "permanent": true
+  },
+  {
+    "source": "/old-events",
+    "destination": "/events",
+    "permanent": true
+  },
+  {
+    "source": "/old-support",
+    "destination": "/support",
+    "permanent": true
+  },
+  {
+    "source": "/old-faq",
+    "destination": "/faq",
+    "permanent": true
+  },
+  {
+    "source": "/old-privacy",
+    "destination": "/privacy",
+    "permanent": true
+  }
+]

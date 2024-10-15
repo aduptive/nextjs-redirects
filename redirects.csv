@@ -1,0 +1,12 @@
+from,to
+https://www.example.com/homepage,https://www.example.com/
+https://www.example.com/old-about,https://www.example.com/about
+https://www.example.com/old-contact,https://www.example.com/contact
+https://www.example.com/old-products,https://www.example.com/products
+https://www.example.com/old-services,https://www.example.com/services
+https://www.example.com/old-blog,https://www.example.com/blog
+https://www.example.com/old-news,https://www.example.com/news
+https://www.example.com/old-events,https://www.example.com/events
+https://www.example.com/old-support,https://www.example.com/support
+https://www.example.com/old-faq,https://www.example.com/faq
+https://www.example.com/old-privacy,https://www.example.com/privacy
